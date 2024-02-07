@@ -1,7 +1,5 @@
 import styled from 'styled-components';
-import {Welcome}  from "@truemeds/welcome"
-
-
+import { Welcome } from '@truemeds/welcome';
 const StyledApp = styled.div`
   // Your style here
 `;
@@ -9,7 +7,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      <Welcome title='Doctor portal'/>
+      <Welcome title='Pharmacist portal'/>
     </StyledApp>
   );
 }

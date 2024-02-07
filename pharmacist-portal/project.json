@@ -1,0 +1,8 @@
+{
+  "name": "pharmacist-portal",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "pharmacist-portal/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}

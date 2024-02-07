@@ -1,0 +1,8 @@
+{
+  "name": "welcome",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "welcome/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
