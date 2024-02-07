@@ -1,0 +1,8 @@
+{
+  "name": "doctor-portal",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/doctor-portal/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
